@@ -4,10 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("Helloworld");
-        System.out.println("Clean code here");
-        System.out.println("Clean code saving here");
+        System.out.println("H");
+        System.out.println("C");
+        System.out.println("S");
         System.out.println("Adding new feature");
-
+        System.out.println("Adding new feature-2");
     }
 }
